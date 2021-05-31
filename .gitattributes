@@ -1,1 +1,5 @@
 JSON[[:space:]]Match[[:space:]]Data/*.zip filter=lfs diff=lfs merge=lfs -text
+match filter=lfs diff=lfs merge=lfs -text
+Final.ipynb filter=lfs diff=lfs merge=lfs -text
+Zachary[[:space:]]Gonzalez[[:space:]]Outline.pptx filter=lfs diff=lfs merge=lfs -text
+item.json filter=lfs diff=lfs merge=lfs -text
